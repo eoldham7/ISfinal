@@ -1,0 +1,71 @@
+.welcomemessage{
+    Text-align: center;
+    font-family: fantasy;
+    color: darkcyan;
+    font-size: 35px;
+}
+
+.custombg{
+    background-image: url('white%20background.jpg')
+}
+
+.thx4watching{
+    text-align: center;
+    Font-family: fantasy;
+    color: darkcyan;
+    text-decoration: underline;
+    font-size: 30px;
+    
+}
+
+.familyheading{
+    float: left;
+    Font-family: fantasy;
+    color: darkcyan;
+    text-decoration: underline   
+}
+.box{
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkcyan;
+    padding: 10px;
+    text-align-last: center;
+}
+.hpparagraph{
+    text-align: center;
+    font-family: sans-serif;
+    color:black;
+    text-align-last: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+img{
+float: left;
+padding-right: 50px;
+padding-bottom: 100px;
+}
+.famlist{
+    text-align: justify;
+    font-family: sans-serif;
+    color:black;
+    font-weight: 100;
+
+}
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 15px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;
+    padding bottom: 15px;
+    position: fixed;
+     border-width: 5px;
+    border-style: solid;
+    border-color: darkcyan;
+    padding: 5px;
+    text-align-last: center;
+    
+}
+
